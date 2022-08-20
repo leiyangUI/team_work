@@ -6,3 +6,6 @@
   font-family: "Montserrat", sans-serif;
   text-align: center;
 }
+nav ul li {
+  list-style-type: none;
+}
